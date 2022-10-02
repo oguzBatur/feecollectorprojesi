@@ -4,7 +4,7 @@ import "@nomicfoundation/hardhat-toolbox";
 const config: HardhatUserConfig = {
   solidity: "0.8.17",
   etherscan: {
-    apiKey: "YG2VIRMTTTGUP4R6NMAFAEVXUENVY2V69G"
+    apiKey: process.env.ETHERSCAN_API_KEY
   },
   networks: {
 
