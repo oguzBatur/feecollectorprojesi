@@ -1,13 +1,5 @@
-# Sample Hardhat Project
+# Fee Collector Ödevi
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+## Solidity Programlama dilinde yazılmış bir smart contract.
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.ts
-```
+> Bu smart contract, etherum alabilen ve bu ethereum'un çekilmesini sağlar.
